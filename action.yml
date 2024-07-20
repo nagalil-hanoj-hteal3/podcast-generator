@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast-Generator Built by EJ"
 author: "Elaeth Jonah Lilagan"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
