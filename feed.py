@@ -41,4 +41,3 @@ with open('feed.yaml',"r") as file:
     
     output_tree = xml_tree.ElementTree(rss_element)
     output_tree.write('podcast.xml',encoding='UTF-8',xml_declaration=True)
-    
